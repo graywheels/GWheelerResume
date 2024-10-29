@@ -9,42 +9,68 @@
 
 .about {
     position: fixed;
-    top: 40px;
+    top: 55px;
     left: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.email {
+    position: fixed;
+    top: 55px;
+    right: 35px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .resume {
     position:relative;
+    top: 60px;
     bottom: 30px;
     left: 480px;
+    filter: brightness(1.3);
+
 }
 
 .linkedin {
     position: relative;
-    top: 20px;
-    bottom: 1px;
+    top: 120px;
+    bottom: 30px;
     left: 480px;
-    filter: brightness(1.5);
+    filter: brightness(1.6);
 
 }
 
 .github {
     position: relative;
-    top: 70px;
+    top: 200px;
+    bottom: 20px;
     left: 510px;
-    filter: brightness(1.1);
+    filter: brightness(1.3);
 
 }
 
-.email {
-    position: fixed;
-    top: 50px;
-    right: 40px;
-    margin-left: auto;
-    margin-right: auto;
+.byline1  {
+    position: relative;
+    top: 300px;
+    bottom: 4px;
+    right: 260px;
 }
+
+.byline2  {
+    position: relative;
+    top: 273px;
+    bottom: 4px;
+    left: 370px;
+}
+
+.byline3  {
+    position: relative;
+    top: 273px;
+    bottom: 4px;
+    left: 540px;
+}
+
 
 
 .boxText {

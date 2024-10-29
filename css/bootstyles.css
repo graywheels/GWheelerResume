@@ -1,0 +1,52 @@
+body {
+    background-color: darkslategray;
+    color: ivory;
+}
+
+.common {
+    position: absolute;
+    /* background-color:lightcyan; */
+    /* border: solid 2px black; */
+    color: ivory;
+}
+
+.font {
+    font-family: -apple-system, "Futura";
+    color: ivory;
+}
+
+.header {
+    top: 10px;
+    left: 38%;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    position:absolute;
+    color: ivory;
+    text-size-adjust: 100px;
+    font-family: "courier new";
+    font-size: 180%;
+
+}
+
+.mainbody {
+    top: 114px;
+    left: 114px;
+    bottom: 64px;
+    right: 114px;
+    padding: 50px;
+    color: ivory;
+    font-family: -apple-system, "Futura";
+}
+
+.footer {
+    bottom: 5px;
+    height: 5px;
+    left: 5px;
+    right: 5px;
+    position: relative;
+    text-align: center;
+    color: ivory;
+    font-family: -apple-system, "Futura";
+
+}

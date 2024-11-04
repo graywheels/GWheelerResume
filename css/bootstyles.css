@@ -40,13 +40,12 @@ body {
 }
 
 .footer {
-    bottom: 5px;
-    height: 5px;
+    bottom: 3px;
+    height: 3px;
     left: 5px;
     right: 5px;
     position: relative;
     text-align: center;
-    color: ivory;
     font-family: -apple-system, "Futura";
 
 }

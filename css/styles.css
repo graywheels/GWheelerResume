@@ -11340,7 +11340,7 @@ p {
 }
 
 .bg-faded {
-  background-color: #f6e1c5;
+  background-color: #d0d0d0;
 }
 
 .btn-xl {
@@ -11416,9 +11416,6 @@ p {
   z-index: -1;
 }
 
-.footer {
-  background-color: rgba(47, 23, 15, 0.9);
-}
 
 .intro {
   position: relative;

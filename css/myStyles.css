@@ -193,12 +193,12 @@ body {
 }
 
 .headFont {
-    font-family:-apple-system, "Futura";
+    font-family: 'Trebuchet MS', sans-serif;
     font-style: bold;
 }
 
 .textFont {
-    font-family:-apple-system, "Futura";
+    font-family: 'Trebuchet MS', sans-serif;    
     font-style: normal;
     font-size: 20px;
     text-align:left;
